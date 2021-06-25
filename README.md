@@ -1,3 +1,3 @@
 # Inventory-Database
-This was a class project completed in my Database Concepts Class. It has a running directory of products, suppliers, and customers.
-It was created in SQL and I have uploaded the dump file and the Enhanced Entity Relationship diagram attached.
+This is a running directory of products, suppliers, and customers.
+I created it using MySQL and you can see the above uploaded dump file, Enhanced Entity Relationship diagram, and the tables.
